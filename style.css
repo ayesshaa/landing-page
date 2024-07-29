@@ -130,10 +130,36 @@
 }
 
 .gallery div p{
-    color: grey;
+    color: #1f2937;
     font-size: 20px;
     text-align: center;
     padding-right: 30px;
     padding-left: 30px;
 
+}
+
+.gray-section{
+    background-color: #e5e7eb;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-top: 100px;
+    padding-bottom: 90px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gray-section p em{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: light;
+    text-align: right;
+}
+
+.gray-section .author {
+    font-size: 20px;
+    text-align: right;
+    border: 1px solid #3882F6;
+    color: #1f2937;
+    font-weight: bold;
+    padding-right: 50px;
 }
