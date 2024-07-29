@@ -163,3 +163,29 @@
     font-weight: bold;
     padding-right: 50px;
 }
+
+.white-section .call-to-action{
+    background-color: #3882F6;
+    color: white;
+    padding: 30px 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.call-to-action h4{
+    font-size: 20px;
+}
+
+.call-to-action p{
+    color: #e5e7eb;
+}
+
+.call-to-action .button{
+    align-items: center;
+}
+
+.call-to-action .button a{
+    border: 2px solid white;
+}
