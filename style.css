@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid grey;
 
 
 
@@ -158,7 +157,6 @@
 .gray-section .author {
     font-size: 20px;
     text-align: right;
-    border: 1px solid #3882F6;
     color: #1f2937;
     font-weight: bold;
     padding-right: 50px;
