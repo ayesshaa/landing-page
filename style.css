@@ -171,7 +171,7 @@
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
-
+    margin-bottom: 50px;
 }
 
 .call-to-action h4{
@@ -188,4 +188,15 @@
 
 .call-to-action .button a{
     border: 2px solid white;
+}
+
+footer{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 30px;
+
+}
+
+footer p {
+    text-align: center;
 }
