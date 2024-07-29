@@ -1,0 +1,96 @@
+* {
+    font-family: "Roboto", Times;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid grey;
+
+
+
+}
+
+.darkblack-section {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-top: 10px;
+    padding-bottom: 200px;
+
+}
+
+.darkblack-section header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: flex-end;
+    
+}
+
+.links a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.hero-section{
+    display: flex;
+    gap: 50px;
+
+
+}
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+}
+.hero-text h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+
+}
+
+.hero-text p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero-img {
+    width: 1200px;
+    background-color: grey;
+}
+
+.button{
+    display: flex;
+}
+
+.button a {
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-color: #3882F6;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
